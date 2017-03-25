@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Marvel Characters</string>
+    <string name="action_settings">About me</string>
+    <string name="title_fragment_home">Home</string>
+    <string name="title_fragment_chars">Chars</string>
+    <string name="title_fragment_comics">Comics</string>
+    <string name="title_fragment_events">Events</string>
+    <string name="title_fragment_loading">Loading, please wait...</string>
+    <string name="public_key">241df2f800a76e834e87696e611fbee2</string>
+    <string name="private_key">4d2729eac78bd8b8f92634b0dc1c25fed07c4646</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="welcome">Here you will find some stuff about your favorite comics company</string>
+    <string name="welcome2">If you want to start, please, click the icon ton top-left</string>
+    <string name="welcome3">If you want to see the essay, please, click the icon on top-right</string>
+
+    <string name="title_activity_about_me">AboutMeActivity</string>
+    <string name="question1">¿Cuál es tu impresión de la empresa?</string>
+    <string name="answer1">Me parece una empresa interesante, ya que es la primera vez que veo que alguien esté interesado en participantes con no tanta experiencia.</string>
+
+    <string name="question2">¿Cuales son tus aspiraciones dentro de ella?</string>
+    <string name="answer2">Me gustaria ampliar mis conocimientos en esta area de desarrollo movil, ya que es en la que me pretendo especializar, me agrada la idea de que alguien pueda decirme que estoy haciendo mal (en caso de) y tener nuevos proyectos para aprender. Me encantaria aprender a programar en iOS.</string>
+
+    <string name="question3">¿Por qué calificas como Kronista?</string>
+    <string name="answer3">Soy una estudiante de Ingenieria en Informatica de la UNEG. No poseo una basta experiencia ni el tiempo necesario como para trabajar en algo que me guste tanto como esto, y espero poder compensarlo a cabalidad con mi capacidad de rapido aprendizaje.</string>
+
+    <string name="question4">Y si me permiten, seré coloquial... Comentarios acerca de mi experiencia creando Marvel Characters</string>
+    <string name="coment1">1. Requemé un poco para tratar de usar la API que se me asignó, ya que su documentación es muy... mala</string>
+    <string name="coment2">2. A causa de lo anterior estuve investigando y encontre una especie de API intermedia (adjunto link: https://github.com/rdrobinson3/AndroidMarvelAPI) que me facilitó el trabajo, espero no haya problemas por eso :( </string>
+    <string name="coment3">3. Tambien tuve problemas para poder mostrar las imagenes que me traia el servidor en cada elemento del Recycler, asi que dejé la misma del icono de la app (mi intento de colocar la imagen en el card view esta comentado) </string>
+    <string name="coment4">4. No pude probar las respuestas misticas de los servicios en postman... tampoco supe porque :( si pudieran decirme seria genial</string>
+    <string name="coment5">5. Si me permiten opinar, no le hagan esa maldad de enviarle esta API a alguien mas como yo xD </string>
+    <string name="coment6">Muchas Gracias por la experiencia! aprendí bastante con la prueba</string>
+</resources>
